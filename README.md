@@ -15,4 +15,6 @@ Currently learning AI + backend engineering 🚀
 <a href="https://wakatime.com/@28c05b6b-b042-49c4-8b08-3e2a4b35024b"><img src="https://wakatime.com/badge/user/28c05b6b-b042-49c4-8b08-3e2a4b35024b.svg" alt="Total time coded since Feb 8 2026" /></a>
 </p>
 
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=srujalmane33&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
