@@ -23,5 +23,6 @@ Currently learning AI + backend engineering 🚀
 ## 💻 Tech Stack
 
 <p align="center">
+  ## 💻 Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,linux,python,cpp,vscode" />
 </p>
