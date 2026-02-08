@@ -18,3 +18,10 @@ Currently learning AI + backend engineering 🚀
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=srujalmane33&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,linux,python,cpp,vscode" />
+</p>
