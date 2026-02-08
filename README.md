@@ -94,7 +94,7 @@
 ## 🎵 Currently Listening (Optional)
 
 <p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31so2fk2ddlvpk254lfnuxmfr67m&cover_image=true&theme=default" />
 </p>
 
 ---
