@@ -1,8 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=180&section=header&text=SRUJAL MANE&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer+💻;Learning+AI+%26+System+Design;Hi+I+am+Srujal+Mane+✌️;Building+Projects+Everyday+🚀" />
