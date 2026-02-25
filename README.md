@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer+💻;Learning+AI+%26+System+Deign;Hi+I+am+Srujal+Anuj+Milke+✌️;Building+Projects+Everyday+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer+💻;Learning+AI+%26+System+Deign;Hi+I+am+Srujal+Mane+✌️;Building+Projects+Everyday+🚀" />
 </p>
 
 ---
