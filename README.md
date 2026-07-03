@@ -1,6 +1,25 @@
 <!-- ======================= HEADER ======================= -->
 
 
+<!-- ======================= SYSTEM HEADER ======================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=220&section=header&text=SRUJAL%20MANE&fontSize=60&fontColor=00F7FF&animation=fadeIn&desc=%5B%20SYSTEM%20ARCHITECT%20%26%20DEVELOPER%20%5D&descSize=18&descAlignY=68&descAlign=50" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=%E2%9A%99%EF%B8%8F+MERN+Architecture+Engineer;%F0%9F%A7%A0+Learning+AI+%26+System+Design;%F0%9F%92%BE+Optimizing+Backend+Scalability;%F0%9F%9A%80+Deploying+Production-Grade+Code+Daily" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CORE%20STATUS-OPERATIONAL-00FF66?style=flat-square" />             
+  <img src="https://img.shields.io/badge/TARGET%20YEAR-2027_READY-00F7FF?style=flat-square" />
+</p>
+
+---
+
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer+💻;Learning+AI+%26+System+Deign;Hi+I+am+Srujal+Mane+✌️;Building+Projects+Everyday+🚀" />
